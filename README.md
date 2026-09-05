@@ -1,14 +1,16 @@
 # ASCII SLAYER — Music Assets
 
-Фонові треки для гри [ASCII SLAYER](https://github.com) — ASCII-раннер у стилі Idle Slayer.
-Музика авторська (synthwave / retrowave / electro rock), створена автором гри.
+Background music tracks for [ASCII SLAYER](https://github.com), an ASCII runner in the
+Idle Slayer style. All tracks are original (synthwave / retrowave / electro rock),
+composed by the game's author.
 
-Репозиторій — лише сховище аудіофайлів для прямих посилань (`raw.githubusercontent.com`),
-які вшиті в музичний плеєр гри. Гра сама лишається одним файлом (`index.html`).
+This repository is just storage for the audio files, linked directly via
+`raw.githubusercontent.com` URLs baked into the game's in-browser music player.
+The game itself stays a single file (`index.html`).
 
-## Треки
+## Tracks
 
-| Файл | Назва |
+| File | Title |
 |---|---|
 | `chromatic-velocity.mp3` | Chromatic Velocity |
 | `electric-pulse-horizon.mp3` | Electric Pulse Horizon |
